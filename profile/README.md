@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+Welcome to the DarkSyst GitHub Organisation.
 
-**Here are some ideas to get you started:**
+We break to build, helping secure applications and software. We also provide secure full stack software development
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Projects we have completed for clients:
+
+- <a href="https://sorcery.ie">SorceryIE</a> (CyberSecurity and Software Company)
